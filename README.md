@@ -19,8 +19,8 @@ Must add at least 2 cards to battle
 
 1. Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/birthday-buddy.git
-cd birthday-buddy
+git clone https://github.com/yourusername/Pokeverse.git
+cd Pokeverse
 ```
 
 3. Run Application
