@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Pokeverse
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+PokeVerse is a React-powered Pokémon battle app that fetches Pokémon from an API and displays them as collectible cards that you can search. Build your ultimate team of up to 6 Pokémon and prepare for battle! Perfect for fans who love collecting, strategizing, and experiencing Pokémon in a dynamic way. 
 
-## Available Scripts
+## Features:
 
-In the project directory, you can run:
+### Displeyed Pokemon
+<img width="600" alt="Screenshot 2025-02-06 at 12 27 07 PM" src="https://github.com/user-attachments/assets/a7b89952-1a88-43fd-9fac-20c32f542e4b" />
 
-### `npm start`
+### Search
+<img width="600" alt="Screenshot 2025-02-06 at 12 28 32 PM" src="https://github.com/user-attachments/assets/4b117d41-be25-4f82-86e5-fdd0dec84705" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Your Squad
+Must add at least 2 cards to battle
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="600" alt="Screenshot 2025-02-06 at 12 28 59 PM" src="https://github.com/user-attachments/assets/d763012b-afbb-4c6b-a6f3-6a4f231efa4d" />
 
-### `npm test`
+### Run Locally
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the Repository  
+```bash
+git clone https://github.com/yourusername/birthday-buddy.git
+cd birthday-buddy
+```
 
-### `npm run build`
+3. Run Application
+```bash
+npm install
+npm run start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Built with
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,css)](https://skillicons.dev)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
